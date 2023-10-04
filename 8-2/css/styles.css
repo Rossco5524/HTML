@@ -1,0 +1,55 @@
+#wrapper {
+    width: 1000px;
+    margin-left: 100px;
+}
+body {
+    font-family: arial;
+    font-size: 1em;
+}
+
+h1 {
+    font-family: arial;
+    font-size: 2em;
+}
+a {
+
+line-height: 2;
+text-decoration: none;
+}
+
+ul {
+
+    padding-left: 0px;
+    margin-left: 0px;
+}
+li {
+    display: inline;
+    padding-right: 10px;
+
+}
+
+.comedy {
+    width: 600px;
+
+}
+
+.drama {
+
+    width: 600px;
+}
+
+.classics {
+
+    width: 600px;
+}
+
+.oldtv {
+
+    float: left;
+    padding: 10px;
+}
+
+.class {
+
+    clear: both;
+}
