@@ -1,0 +1,39 @@
+.left {
+    float: left;
+    width: 150px;
+    height: 100%;
+    background-color: wheat;
+    margin-right: 10px;
+    
+}
+
+.main {
+
+    float: right;
+    width: 800px;
+    background-color: wheat;
+}
+
+.form {
+
+    float: left;
+    width: 480px;
+    font-size: .8em;
+    background-color: wheat;
+
+}
+.guitar {
+    float: right;
+}
+
+.text {
+    float: right;
+    width: 350px;
+    padding-top: 55px;
+    background-color: wheat;
+}
+
+.bottom {
+    height: 250px;
+    clear: both;
+}
