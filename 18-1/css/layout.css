@@ -1,0 +1,33 @@
+.left {
+    float: left;
+    width: 150px;
+    height: 100%;
+    background-color:whitesmoke;
+    margin-right: 10px;
+    
+}
+
+.video {
+    
+    width: 770px;
+    float: right;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+
+
+.main {
+
+    float: right;
+    width: 800px;
+    background-color: whitesmoke;
+    padding: 15px;
+    
+}
+
+
+.bottom {
+    height: 250px;
+    clear: both;
+}
